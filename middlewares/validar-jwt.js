@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken');
-import TEXT from "../helpers/text";
+const {TEXT} = require ("../helpers/text");
 
 /**
  *
